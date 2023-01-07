@@ -10,6 +10,7 @@ freeglut 2.8.1 (for display)
 ```bash
 cd $ROOT
 mkdir build
+cd build
 cmake ..
 make
 ```
